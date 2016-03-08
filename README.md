@@ -22,7 +22,7 @@ cannot found -llua
 
 ![img](https://github.com/leason99/error/blob/master/lua_version.jpg)
 
-但lua是以安裝的
+但lua是已安裝的
 
 ![img](https://github.com/leason99/error/blob/master/search-liblua.jpg)
 
