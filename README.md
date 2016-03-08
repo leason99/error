@@ -1,5 +1,5 @@
 # error
-[install guide](http://www.freeswitch.org.cn/2009/11/08/freeswitch-xin-shou-zhi-nan.html)
+參考安裝過程[install guide](http://www.freeswitch.org.cn/2009/11/08/freeswitch-xin-shou-zhi-nan.html)
 
 error for freeswitch make 
 
