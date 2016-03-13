@@ -1,7 +1,7 @@
 # error
 參考安裝過程[install guide](http://www.freeswitch.org.cn/2009/11/08/freeswitch-xin-shou-zhi-nan.html)
 
-error for freeswitch make 
+error for freeswitch make <font color="white">要反白的文字<font>
 
 
 [參考過的解決連結](http://yperus.blogspot.tw/2010/08/installing-lua-51-on-ubuntu-1004.html)
